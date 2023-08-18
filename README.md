@@ -3,3 +3,5 @@
 30 Days of JavaScript
 
 link : https://leetcode.com/studyplan/30-days-of-javascript/
+
+Solving all Daily
